@@ -1,0 +1,18 @@
+#title {
+    font-size:2.7vw;
+    text-align: center;
+    font-weight: bolder;
+}
+
+#getstarted {
+    font-size: 2.2vw;
+}
+
+body {
+    background-image: url(bg.jpg);
+    background-size: 10000000000px;
+}
+
+p a {
+    font-size: 2vw;
+}
